@@ -17,4 +17,4 @@ const verdict = declareWeapon();
 console.log(verdict);
 
 
-//  constant objects can be reassign so the output will be The weapon is the Revolver.
+//  constant objects properties can be reassign so the output will be The weapon is the Revolver.
