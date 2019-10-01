@@ -7,7 +7,6 @@ const changeMurderer = function() {
     let murderer = 'Colonel Mustard';
 
     const unexpectedOutcome = function() {
-      // murderer ='Miss Scarlet'
       murderer = 'Miss Scarlet';
     }
     //Murderers Colonel Mustard
